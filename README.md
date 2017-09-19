@@ -22,6 +22,7 @@ I like:
   4. I saved, then committed, pulled and then pushed to github :thumbsup:
   5. I moved the gapminder .rmb and .md files into my project folder using my local directory 
   6. I opened the gapminder files in R studio, committed them, (pulled) and pushed to github
+  7. Here's the .md file: https://github.com/KateJohnson/STAT545-hw01-Johnson-Kate/blob/master/hw001_gapminder.md
   
 ## Issues
-  - I can't get my gif to show up in github. If you look at the raw for this file you can see the link is there and I don't think     there any any errors with my syntax.. Can somebody help?
+  - I can't get my gif to show up in github. If you look at the raw for this file you can see the link is there and I don't think     there are any errors with my syntax.. Can somebody help?
